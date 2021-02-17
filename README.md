@@ -8,4 +8,4 @@ Computer Technician and Computer Science Student.
 Passionate from the world of technology and programming. Always in search of the next learning!
 
 
-"Computers are incredibly fast, accurate and stupid; men are incredibly slow, inaccurate and brilliant; together, their powers go beyond the limits of imagination". -Albert Einstein
+"Computers are incredibly fast, accurate and stupid; men are incredibly slow, inaccurate and brilliant; together, their powers go beyond the limits of imagination". (Albert Einstein)
