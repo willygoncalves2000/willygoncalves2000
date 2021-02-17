@@ -9,4 +9,5 @@ Passionate from the world of technology and programming. Always in search of the
 
 
 "Computers are incredibly fast, accurate and stupid; men are incredibly slow, inaccurate and brilliant; together, their powers go beyond the limits of imagination".
+
 Albert Einstein
